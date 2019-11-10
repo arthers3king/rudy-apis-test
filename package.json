@@ -1,0 +1,20 @@
+{
+  "name": "apis",
+  "version": "1.0.1",
+  "description": "testing apis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arm Akrapong Karinrak",
+  "license": "ISC",
+  "dependencies": {
+    "@google/maps": "^1.0.2",
+    "axios": "^0.19.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "https": "^1.0.0",
+    "mongoose": "^5.7.7",
+    "nodemon": "^1.19.4"
+  }
+}
